@@ -1,0 +1,3 @@
+<vsk:GetPolicyPrintFormsRequest xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:vsk="http://www.vsk.ru">
+    <vsk:POLICYID>${POLICYID}</vsk:POLICYID>
+</vsk:GetPolicyPrintFormsRequest>

@@ -1,0 +1,5 @@
+<vsk:GetVehiclePhotoRequest   xmlns:vsk="http://www.vsk.ru">
+            <vsk:POLICYID>${POLICYID}</vsk:POLICYID>
+            <vsk:VEHICLEINDEX>0</vsk:VEHICLEINDEX>
+            <vsk:FILENAME>1407235981_448.JPG</vsk:FILENAME>
+        </vsk:GetVehiclePhotoRequest>

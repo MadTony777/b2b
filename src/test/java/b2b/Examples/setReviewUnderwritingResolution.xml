@@ -1,0 +1,12 @@
+<ns2:SetReviewUnderwritingResolutionRequest xmlns:ns2="http://www.vsk.ru" xmlns:ns3="http://ws.rls10" xmlns:ns4="http://schemas.microsoft.com/2003/10/Serialization/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <ns2:TASKID>${TASKID}</ns2:TASKID>
+    <ns2:STATUS>0</ns2:STATUS>
+    <ns2:MESSAGE xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <ns2:INSPECTION_EMPLOYEE>Привезенцев Евгений Вадимович</ns2:INSPECTION_EMPLOYEE>
+    <ns2:INSPECTION_DATE>2020-09-30T11:39:31.747Z</ns2:INSPECTION_DATE>
+    <ns2:INSPECTION_RESULT>
+        <ns3:Id>0B024CEB-2855-4680-9EA8-C8B3C584E741</ns3:Id>
+        <ns3:SysId>B2B</ns3:SysId>
+        <ns3:Type>Link_Person_Type</ns3:Type>
+    </ns2:INSPECTION_RESULT>
+</ns2:SetReviewUnderwritingResolutionRequest>

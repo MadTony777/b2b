@@ -1,0 +1,5 @@
+        <vsk:SendToUndewritingRequest xmlns:vsk="http://www.vsk.ru">
+            <vsk:POLICYID>${POLICYID}</vsk:POLICYID>
+            <!--Optional:-->
+            <vsk:PRIM>Test</vsk:PRIM>
+        </vsk:SendToUndewritingRequest>

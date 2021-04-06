@@ -1,0 +1,3 @@
+<vsk:GetPolicyRequest xmlns:vsk="http://www.vsk.ru">
+    <vsk:POLICYID>${POLICYID}</vsk:POLICYID>
+</vsk:GetPolicyRequest>

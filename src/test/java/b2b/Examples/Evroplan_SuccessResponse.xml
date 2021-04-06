@@ -1,0 +1,146 @@
+<CalcRequestV2 xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" xmlns:u="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns="http://www.vsk.ru">
+    <PRODUCT>C97910BD-EFA4-4DA3-8008-8358EED75952</PRODUCT>
+    <PROGRAMTYPE>
+        <Id xmlns="http://ws.rls10">e78a1eb8-8cfa-4860-a9de-a0f6216b35fa</Id>
+        <SysId xmlns="http://ws.rls10">B2B</SysId>
+        <Type xmlns="http://ws.rls10">Link_Programm</Type>
+    </PROGRAMTYPE>
+    <DURATION>25</DURATION>
+    <DURATIONTYPE>M</DURATIONTYPE>
+    <STOA>
+        <Id xmlns="http://ws.rls10">1</Id>
+        <SysId xmlns="http://ws.rls10">EuroPlan</SysId>
+        <Type xmlns="http://ws.rls10">Link_STOA</Type>
+    </STOA>
+    <INSTALLMENT>
+        <Id xmlns="http://ws.rls10">4</Id>
+        <SysId xmlns="http://ws.rls10">EuroPlan</SysId>
+        <Type xmlns="http://ws.rls10">Link_Installment</Type>
+    </INSTALLMENT>
+    <KFAV>1</KFAV>
+    <LDUTYPE>
+        <Id xmlns="http://ws.rls10">C1C5F745-80C9-4C8E-9EB4-E4A5F075A7A5</Id>
+        <SysId xmlns="http://ws.rls10">B2B</SysId>
+        <Type xmlns="http://ws.rls10">Link_Ldu_Type</Type>
+    </LDUTYPE>
+    <INSUREDTYPE>
+        <Id xmlns="http://ws.rls10">85C05F20-CE99-49CB-B9C4-8E34F8565B1A</Id>
+        <SysId xmlns="http://ws.rls10">B2B</SysId>
+        <Type xmlns="http://ws.rls10">Link_Person_Type</Type>
+    </INSUREDTYPE>
+    <OWNERTYPE>
+        <Id xmlns="http://ws.rls10">85C05F20-CE99-49CB-B9C4-8E34F8565B1A</Id>
+        <SysId xmlns="http://ws.rls10">B2B</SysId>
+        <Type xmlns="http://ws.rls10">Link_Person_Type</Type>
+    </OWNERTYPE>
+    <MODEOFUSE>
+        <Id xmlns="http://ws.rls10">1</Id>
+        <SysId xmlns="http://ws.rls10">EuroPlan</SysId>
+        <Type xmlns="http://ws.rls10">Link_ModeOfUse</Type>
+    </MODEOFUSE>
+    <EXPLOITATIONMODE>
+        <Id xmlns="http://ws.rls10">1@10</Id>
+        <SysId xmlns="http://ws.rls10">EuroPlan</SysId>
+        <Type xmlns="http://ws.rls10">Link_Exploit</Type>
+    </EXPLOITATIONMODE>
+    <REGINOTARIFF>
+        <Id xmlns="http://ws.rls10">37000001</Id>
+        <SysId xmlns="http://ws.rls10">EuroPlan</SysId>
+        <Type xmlns="http://ws.rls10">Link_Region</Type>
+    </REGINOTARIFF>
+    <ENCUMBRANCETYPE>
+        <Id xmlns="http://ws.rls10">2</Id>
+        <SysId xmlns="http://ws.rls10">EuroPlan</SysId>
+        <Type xmlns="http://ws.rls10">Link_Encumbrance</Type>
+    </ENCUMBRANCETYPE>
+    <BANK>
+        <Id xmlns="http://ws.rls10">1</Id>
+        <SysId xmlns="http://ws.rls10">EuroPlan</SysId>
+        <Type xmlns="http://ws.rls10">Link_BankLising</Type>
+    </BANK>
+
+
+
+    <BENEFICIARY_TYPE>
+        <Id xmlns="http://ws.rls10">85C05F20-CE99-49CB-B9C4-8E34F8565B1A</Id>
+        <SysId xmlns="http://ws.rls10">B2B</SysId>
+        <Type xmlns="http://ws.rls10">Link_Person_Type</Type>
+    </BENEFICIARY_TYPE>
+    <LISING_TYPE>
+        <Id xmlns="http://ws.rls10">85C05F20-CE99-49CB-B9C4-8E34F8565B1A</Id>
+        <SysId xmlns="http://ws.rls10">B2B</SysId>
+        <Type xmlns="http://ws.rls10">Link_Person_Type</Type>
+    </LISING_TYPE>
+
+
+
+
+
+    <VEHICLELIST>
+        <VEHICLEV2>
+            <CARMODEL>
+                <Id xmlns="http://ws.rls10">3487@5@0</Id>
+                <SysId xmlns="http://ws.rls10">EuroPlan</SysId>
+                <Type xmlns="http://ws.rls10">LINK_VEHICLE_MOD</Type>
+            </CARMODEL>
+            <NEWCAR>true</NEWCAR>
+            <CONSTRUCTED>2019</CONSTRUCTED>
+            <COST>2031000</COST>
+            <FullINSURANCE>
+                <Id xmlns="http://ws.rls10">1</Id>
+                <SysId xmlns="http://ws.rls10">EuroPlan</SysId>
+                <Type xmlns="http://ws.rls10">Link_InsType</Type>
+            </FullINSURANCE>
+            <CASCOSUM>2031000</CASCOSUM>
+            <DISCOUNTKV>0</DISCOUNTKV>
+            <ISDAMAGE>true</ISDAMAGE>
+            <ISCASCO>true</ISCASCO>
+            <ISBADPETROL>false</ISBADPETROL>
+            <ISHYDRO>false</ISHYDRO>
+            <LIABILITYSUMRAW>
+                <Id xmlns="http://ws.rls10">CC105761-2D29-4ADC-A024-46446BCE5023</Id>
+                <SysId xmlns="http://ws.rls10">B2B</SysId>
+                <Type xmlns="http://ws.rls10">Link_LiabSum</Type>
+            </LIABILITYSUMRAW>
+
+            <DRIVERLIST>
+                <DRIVER>
+                    <DRIVERAGE>18</DRIVERAGE>
+                    <DRIVINGEXPIRIENCE>0</DRIVINGEXPIRIENCE>
+                </DRIVER>
+            </DRIVERLIST>
+            <OWNERS_COUNT>1</OWNERS_COUNT>
+            <CRASH_COUNT>0</CRASH_COUNT>
+            <PRODUCER_COUNTRY>
+                <Id xmlns="http://ws.rls10">9ECA8969-7958-4537-A42C-7CFCCF70D691</Id>
+                <SysId xmlns="http://ws.rls10">?</SysId>
+                <Type xmlns="http://ws.rls10">?</Type>
+            </PRODUCER_COUNTRY>
+            <PTS_ORGANISATION>
+                <Id xmlns="http://ws.rls10">6F1031B1-3A51-4ED4-AF18-9903D6DD8663</Id>
+                <SysId xmlns="http://ws.rls10">?</SysId>
+                <Type xmlns="http://ws.rls10">?</Type>
+            </PTS_ORGANISATION>
+            <VIN_STATE>
+                <Id xmlns="http://ws.rls10">6AE5951C-C972-4999-AAD8-6419F8CF8CB6</Id>
+                <SysId xmlns="http://ws.rls10">?</SysId>
+                <Type xmlns="http://ws.rls10">?</Type>
+            </VIN_STATE>
+
+            <PNPSOPTION>
+                <Id xmlns="http://ws.rls10">35BA223C-3384-444A-9EED-CC348DD2B1B0</Id>
+                <SysId xmlns="http://ws.rls10">B2B</SysId>
+                <Type xmlns="http://ws.rls10">?</Type>
+            </PNPSOPTION>
+            <PNPSGLASSOPTION>
+                <Id xmlns="http://ws.rls10">211830C4-5FB7-42C7-B91F-29501D3EC14B</Id>
+                <SysId xmlns="http://ws.rls10">B2B</SysId>
+                <Type xmlns="http://ws.rls10">?</Type>
+            </PNPSGLASSOPTION>
+        </VEHICLEV2>
+    </VEHICLELIST>
+    <BENEFICIARY_ORG_RESIDENT>false</BENEFICIARY_ORG_RESIDENT>
+    <INSURER_ORG_RESIDENT>false</INSURER_ORG_RESIDENT>
+    <LISING_ORG_RESIDENT>false</LISING_ORG_RESIDENT>
+    <OWNER_ORG_RESIDENT>false</OWNER_ORG_RESIDENT>
+</CalcRequestV2>

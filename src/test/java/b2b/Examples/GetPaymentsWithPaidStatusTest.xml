@@ -1,0 +1,3 @@
+        <vsk:PartnerGetPaymentsWithPaidStatusRequest xmlns:vsk="http://www.vsk.ru">
+            <vsk:POLICYID>294743e2-0583-440d-81d7-5c59521189f2</vsk:POLICYID>
+        </vsk:PartnerGetPaymentsWithPaidStatusRequest>

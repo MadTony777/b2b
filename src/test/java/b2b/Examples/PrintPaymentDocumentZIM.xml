@@ -1,0 +1,3 @@
+<vsk:PrintPaymentDocumentRequest xmlns:vsk="http://www.vsk.ru">
+            <vsk:PAYMENTID>471f636a-9fd9-4d7c-a122-df7a21a5b45c</vsk:PAYMENTID>
+        </vsk:PrintPaymentDocumentRequest>

@@ -1,0 +1,373 @@
+<vsk:UpdatePolicyRequestV2  xmlns:vsk="http://www.vsk.ru" xmlns:ws="http://ws.rls10">
+    <vsk:PRODUCT>1CBE18E9-E086-4A2A-B56A-E55EF813077E</vsk:PRODUCT>
+    <vsk:PolicyId>2BAB4610-767F-4A55-952B-2D885A11D256</vsk:PolicyId>
+    <vsk:PROGRAMTYPE>
+        <ws:Id>F7BBE3F4-5B0E-43D0-8132-111944C7F3C0</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type>Link_Programm</ws:Type>
+    </vsk:PROGRAMTYPE>
+    <vsk:DURATION>12</vsk:DURATION>
+    <vsk:DURATIONTYPE>M</vsk:DURATIONTYPE>
+    <vsk:STOA>
+        <ws:Id>25F8A6E8-E70B-4EE1-8DA9-3634054B01F3</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type>Link_STOA</ws:Type>
+    </vsk:STOA>
+    <vsk:INSTALLMENT>
+        <ws:Id>E0BA793E-80ED-4878-B0D6-D10B337306BF</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type>Link_Installment</ws:Type>
+    </vsk:INSTALLMENT>
+    <vsk:KFAV>1</vsk:KFAV>
+    <vsk:LDUTYPE>
+        <ws:Id>1678B420-241E-4125-BDF6-BC21EDCBEA26</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type>Link_Ldu_Type</ws:Type>
+    </vsk:LDUTYPE>
+    <vsk:INSUREDTYPE>
+        <ws:Id>02CD4921-5874-4237-9E37-3755598599E5</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type>Link_Person_Type</ws:Type>
+    </vsk:INSUREDTYPE>
+    <vsk:OWNERTYPE>
+        <ws:Id>02CD4921-5874-4237-9E37-3755598599E5</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type>Link_Person_Type</ws:Type>
+    </vsk:OWNERTYPE>
+    <vsk:PROLONGATION>false</vsk:PROLONGATION>
+    <vsk:INSUREDCLASS>
+        <ws:Id>AA334769-D1E0-4FBF-AFA6-8CAE85211FBB</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type>Link_Driver_Clas</ws:Type>
+    </vsk:INSUREDCLASS>
+    <vsk:MODEOFUSE>
+        <ws:Id>28884562-C7C1-4A52-ACB1-8E67DA111527</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type>Link_ModeOfUse</ws:Type>
+    </vsk:MODEOFUSE>
+    <vsk:REGINOTARIFF>
+        <ws:Id>FF18E10E-487F-47C1-9BFD-49344C5E51B4</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type>Link_Region</ws:Type>
+    </vsk:REGINOTARIFF>
+    <vsk:ENCUMBRANCETYPE>
+        <ws:Id>6B695F29-FB11-4146-BA8F-D70A92E0AD26</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type>Link_Encumbrance</ws:Type>
+    </vsk:ENCUMBRANCETYPE>
+    <vsk:ISDAMAGEPAYMENT>false</vsk:ISDAMAGEPAYMENT>
+
+    <vsk:DOCUMENTDATE>2020-10-20T00:00:00</vsk:DOCUMENTDATE>
+    <vsk:EFFECTIVEDATE>2020-10-20T00:00:00</vsk:EFFECTIVEDATE>
+
+    <vsk:INSURER_PERSON_NAME1>Asda</vsk:INSURER_PERSON_NAME1>
+    <vsk:INSURER_PERSON_NAME2>Asdad</vsk:INSURER_PERSON_NAME2>
+    <vsk:INSURER_BIRTHDAY>2000-01-01T00:00:00</vsk:INSURER_BIRTHDAY>
+    <vsk:BENEFICIARY_TYPE>
+        <ws:Id>02CD4921-5874-4237-9E37-3755598599E5</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type>Link_Person_Type</ws:Type>
+    </vsk:BENEFICIARY_TYPE>
+    <vsk:BENEFICIARY_PERSON_NAME1>Asda</vsk:BENEFICIARY_PERSON_NAME1>
+    <vsk:BENEFICIARY_PERSON_NAME2>Asdad</vsk:BENEFICIARY_PERSON_NAME2>
+    <vsk:BENEFICIARY_BIRTHDAY>2000-01-01T00:00:00</vsk:BENEFICIARY_BIRTHDAY>
+    <vsk:OWNER_PERSON_NAME1>Asda</vsk:OWNER_PERSON_NAME1>
+    <vsk:OWNER_PERSON_NAME2>Asdad</vsk:OWNER_PERSON_NAME2>
+    <vsk:OWNER_BIRTHDAY>2000-01-01T00:00:00</vsk:OWNER_BIRTHDAY>
+    <vsk:INSURERSIGNER>Овсяницкий О.С.</vsk:INSURERSIGNER>
+    <vsk:VEHICLELIST>
+        <vsk:VEHICLEV2>
+            <vsk:CARMODEL>
+                <ws:Id>10C912CB-3DD0-44E0-A7B9-C1983ABDE031</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>Link_VEHICLE_MOD</ws:Type>
+            </vsk:CARMODEL>
+            <vsk:CONSTRUCTED>2017</vsk:CONSTRUCTED>
+            <vsk:DATERUN>2018-07-05T00:00:00</vsk:DATERUN>
+            <vsk:COST>400000</vsk:COST>
+            <vsk:KILOMETERS>456</vsk:KILOMETERS>
+            <vsk:ENGINEPOWER>456</vsk:ENGINEPOWER>
+            <vsk:MOTORTYPE>
+                <ws:Id>DCCE61C6-65F7-47FD-9F92-F4D6019F20C5</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>Link_VEHICLE_Motor</ws:Type>
+            </vsk:MOTORTYPE>
+            <vsk:MOTORVOLUME>5454</vsk:MOTORVOLUME>
+            <vsk:KPPTYPE>
+                <ws:Id>93FDF512-8A78-4CA3-A5F3-4550DE2ED881</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>Link_VEHICLE_KPP</ws:Type>
+            </vsk:KPPTYPE>
+            <vsk:BODYTYPE>
+                <ws:Id>915FC084-CD69-4B9C-97EE-BF3410713D24</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>Link_VEHICLE_BodyType</ws:Type>
+            </vsk:BODYTYPE>
+            <vsk:FRANCHTYPE>
+                <ws:Id>6A70202A-9914-4A9E-928E-759D8C28BCF8</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>Link_FranchType</ws:Type>
+            </vsk:FRANCHTYPE>
+            <vsk:FRANCHSUM>
+                <ws:Id>D95513C9-0310-43FB-9BA1-C3A476CFB150</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>Link_FranchSum</ws:Type>
+            </vsk:FRANCHSUM>
+            <vsk:FullINSURANCE>
+                <ws:Id>08893D0C-F870-4F2E-AC83-C2B8A3114333</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>Link_InsType</ws:Type>
+            </vsk:FullINSURANCE>
+            <vsk:CASCOSUM>400000</vsk:CASCOSUM>
+            <vsk:DISCOUNTKV>0</vsk:DISCOUNTKV>
+            <vsk:ISDAMAGE>true</vsk:ISDAMAGE>
+            <vsk:ISCASCO>true</vsk:ISCASCO>
+            <vsk:LIABILITYSUMRAW>
+                <ws:Id>CF43849F-A5BB-448A-AE3C-F84674FF2ECA</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>?</ws:Type>
+                <!--Optional:-->
+                <ws:MetaInfo>
+                    <!--1 or more repetitions:-->
+                    <ws:Info name="?" ref-type="?">?</ws:Info>
+                </ws:MetaInfo>
+            </vsk:LIABILITYSUMRAW>
+
+            <vsk:VIN>66666666666666665</vsk:VIN>
+            <vsk:PTS>5646 546546</vsk:PTS>
+            <vsk:PTS_DATE>2018-01-01T00:00:00</vsk:PTS_DATE>
+            <vsk:DRIVERLIST>
+                <vsk:DRIVER>
+                    <vsk:DRIVERAGE>55</vsk:DRIVERAGE>
+                    <vsk:DRIVINGEXPIRIENCE>5</vsk:DRIVINGEXPIRIENCE>
+                </vsk:DRIVER>
+            </vsk:DRIVERLIST>
+
+
+            <vsk:OWNERS_COUNT>1</vsk:OWNERS_COUNT>
+            <vsk:CRASH_COUNT>0</vsk:CRASH_COUNT>
+            <vsk:PRODUCER_COUNTRY>
+                <ws:Id>DD6551C3-4701-41A1-BE6E-2F44B08F0281</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>PRODUCER_COUNTRY</ws:Type>
+            </vsk:PRODUCER_COUNTRY>
+            <vsk:PTS_ORGANISATION>
+                <ws:Id>6F1031B1-3A51-4ED4-AF18-9903D6DD8663</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>PTS_ORGANISATION</ws:Type>
+            </vsk:PTS_ORGANISATION>
+            <vsk:VIN_STATE>
+                <ws:Id>6AE5951C-C972-4999-AAD8-6419F8CF8CB6</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>VIN_STATE</ws:Type>
+            </vsk:VIN_STATE>
+
+            <vsk:PNPSOPTION>
+                <!-- Примеры:
+          Без франшизы по ПНПС	35BA223C-3384-444A-9EED-CC348DD2B1B0
+          Выключен					47679852-151B-4779-8AF5-135A2133D6AC
+          Франшиза по ПНПС		FD43C447-7997-4853-8E0B-EC1AE73321FC
+          -->
+                <ws:Id>35BA223C-3384-444A-9EED-CC348DD2B1B0</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>NoLink</ws:Type>
+            </vsk:PNPSOPTION>
+            <vsk:PNPSGLASSOPTION>
+                <!-- Примеры:
+          1 раз в год										1458C390-F47C-4A80-B421-3EAE2A96A921
+          Выключен										8349A3AF-0FF5-4978-AAD9-EF56A0D3D57A
+          Неограниченное количество раз в год	211830C4-5FB7-42C7-B91F-29501D3EC14B
+          -->
+                <ws:Id>8349A3AF-0FF5-4978-AAD9-EF56A0D3D57A</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>NoLink</ws:Type>
+            </vsk:PNPSGLASSOPTION>
+
+            <vsk:RENAULTREPAIRLIMIT xmlns:a="http://ws.rls10">
+                <ws:Id>B6EBEBBC-F7B5-4AF3-AC21-59EFA0E1850D</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>NoLink</ws:Type>
+            </vsk:RENAULTREPAIRLIMIT>
+
+            <vsk:GAPOPTION xmlns:a="http://ws.rls10">
+                <ws:Id>378AB531-A67E-4D31-BE23-07449CB32C1F</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>NoLink</ws:Type>
+            </vsk:GAPOPTION>
+
+        </vsk:VEHICLEV2>
+    </vsk:VEHICLELIST>
+    <vsk:INSURER_DOCS>
+        <vsk:DOC>
+            <vsk:DOC_TYPE>
+                <ws:Id>8F7E6988-F2F9-4C4C-8E7F-3967663173E4</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>Link_DOC_TYPE_NP</ws:Type>
+            </vsk:DOC_TYPE>
+            <vsk:DOC_SERIA>6666</vsk:DOC_SERIA>
+            <vsk:DOC_NUMBER>654321</vsk:DOC_NUMBER>
+            <vsk:DOC_DATE>2018-07-01T00:00:00</vsk:DOC_DATE>
+        </vsk:DOC>
+    </vsk:INSURER_DOCS>
+    <vsk:INSURER_ADDRESS>
+        <vsk:ADDRESS>
+            <vsk:ADDRESS_TYPE>
+                <ws:Id>1CC3A819-0BBE-4F66-ABE3-7BFC538832A4</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>Link_DOC_TYPE_NP</ws:Type>
+            </vsk:ADDRESS_TYPE>
+            <vsk:KLADR>77000000000</vsk:KLADR>
+            <vsk:CITY>г Москва</vsk:CITY>
+            <vsk:FULL_ADDRESS>г Москва, д. 5</vsk:FULL_ADDRESS>
+            <vsk:SUBJECT>г Москва</vsk:SUBJECT>
+            <vsk:HOUSE>5</vsk:HOUSE>
+        </vsk:ADDRESS>
+    </vsk:INSURER_ADDRESS>
+    <vsk:INSURER_BIRTHCITY>г Москва</vsk:INSURER_BIRTHCITY>
+    <vsk:INSURER_CONTACT_PHONES>
+        <vsk:INSURER_CONTACT_PHONE>
+            <vsk:PHONE>9064066142</vsk:PHONE>
+        </vsk:INSURER_CONTACT_PHONE>
+    </vsk:INSURER_CONTACT_PHONES>
+    <vsk:INSURER_EMAILS>
+        <vsk:INSURER_EMAIL>
+            <vsk:EMAIL>asdf@adf.ry</vsk:EMAIL>
+        </vsk:INSURER_EMAIL>
+    </vsk:INSURER_EMAILS>
+    <vsk:INSURER_BIRTHCOUNTRY>
+        <ws:Id>F11CEC8E-1BB2-4AF6-86C8-48CC76098626</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type/>
+    </vsk:INSURER_BIRTHCOUNTRY>
+    <vsk:INSURER_CITIZENSHIP>
+        <ws:Id>F11CEC8E-1BB2-4AF6-86C8-48CC76098626</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type/>
+    </vsk:INSURER_CITIZENSHIP>
+    <vsk:BENEFICIARY_DOCS>
+        <vsk:DOC>
+            <vsk:DOC_TYPE>
+                <ws:Id>8F7E6988-F2F9-4C4C-8E7F-3967663173E4</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>Link_DOC_TYPE_NP</ws:Type>
+            </vsk:DOC_TYPE>
+            <vsk:DOC_SERIA>6666</vsk:DOC_SERIA>
+            <vsk:DOC_NUMBER>654321</vsk:DOC_NUMBER>
+            <vsk:DOC_DATE>2018-07-01T00:00:00</vsk:DOC_DATE>
+        </vsk:DOC>
+    </vsk:BENEFICIARY_DOCS>
+    <vsk:BENEFICIARY_ADDRESS>
+        <vsk:ADDRESS>
+            <vsk:ADDRESS_TYPE>
+                <ws:Id>1CC3A819-0BBE-4F66-ABE3-7BFC538832A4</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>Link_DOC_TYPE_NP</ws:Type>
+            </vsk:ADDRESS_TYPE>
+            <vsk:KLADR>77000000000</vsk:KLADR>
+            <vsk:CITY>г Москва</vsk:CITY>
+            <vsk:FULL_ADDRESS>г Москва, д. 5</vsk:FULL_ADDRESS>
+            <vsk:SUBJECT>г Москва</vsk:SUBJECT>
+            <vsk:HOUSE>5</vsk:HOUSE>
+        </vsk:ADDRESS>
+    </vsk:BENEFICIARY_ADDRESS>
+    <vsk:PARTNERSDISCOUNT>1</vsk:PARTNERSDISCOUNT>
+    <vsk:BENEFICIARY_CONTACT_PHONES>
+        <vsk:BENEFICIARY_CONTACT_PHONE>
+            <vsk:PHONE>9064066142</vsk:PHONE>
+        </vsk:BENEFICIARY_CONTACT_PHONE>
+    </vsk:BENEFICIARY_CONTACT_PHONES>
+    <vsk:BENEFICIARY_EMAILS>
+        <vsk:BENEFICIARY_EMAIL>
+            <vsk:EMAIL>asdf@adf.ry</vsk:EMAIL>
+        </vsk:BENEFICIARY_EMAIL>
+    </vsk:BENEFICIARY_EMAILS>
+    <vsk:BENEFICIARY_BIRTHCOUNTRY>
+        <ws:Id>F11CEC8E-1BB2-4AF6-86C8-48CC76098626</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type/>
+    </vsk:BENEFICIARY_BIRTHCOUNTRY>
+    <vsk:BENEFICIARY_CITIZENSHIP>
+        <ws:Id>F11CEC8E-1BB2-4AF6-86C8-48CC76098626</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type/>
+    </vsk:BENEFICIARY_CITIZENSHIP>
+    <vsk:BENEFICIARY_BIRTHCITY>г Москва</vsk:BENEFICIARY_BIRTHCITY>
+    <vsk:OWNER_DOCS>
+        <vsk:DOC>
+            <vsk:DOC_TYPE>
+                <ws:Id>8F7E6988-F2F9-4C4C-8E7F-3967663173E4</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>Link_DOC_TYPE_NP</ws:Type>
+            </vsk:DOC_TYPE>
+            <vsk:DOC_SERIA>6666</vsk:DOC_SERIA>
+            <vsk:DOC_NUMBER>654321</vsk:DOC_NUMBER>
+            <vsk:DOC_DATE>2018-07-01T00:00:00</vsk:DOC_DATE>
+        </vsk:DOC>
+    </vsk:OWNER_DOCS>
+    <vsk:OWNER_ADDRESS>
+        <vsk:ADDRESS>
+            <vsk:ADDRESS_TYPE>
+                <ws:Id>1CC3A819-0BBE-4F66-ABE3-7BFC538832A4</ws:Id>
+                <ws:SysId>B2B</ws:SysId>
+                <ws:Type>Link_DOC_TYPE_NP</ws:Type>
+            </vsk:ADDRESS_TYPE>
+            <vsk:KLADR>77000000000</vsk:KLADR>
+            <vsk:CITY>г Москва</vsk:CITY>
+            <vsk:FULL_ADDRESS>г Москва, д. 5</vsk:FULL_ADDRESS>
+            <vsk:SUBJECT>г Москва</vsk:SUBJECT>
+            <vsk:HOUSE>5</vsk:HOUSE>
+        </vsk:ADDRESS>
+    </vsk:OWNER_ADDRESS>
+    <vsk:OWNER_BIRTHCOUNTRY>
+        <ws:Id>F11CEC8E-1BB2-4AF6-86C8-48CC76098626</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type/>
+    </vsk:OWNER_BIRTHCOUNTRY>
+    <vsk:OWNER_BIRTHCITY>г Москва</vsk:OWNER_BIRTHCITY>
+    <vsk:OWNER_CONTACT_PHONES>
+        <vsk:OWNER_CONTACT_PHONE>
+            <vsk:PHONE>9064066142</vsk:PHONE>
+        </vsk:OWNER_CONTACT_PHONE>
+    </vsk:OWNER_CONTACT_PHONES>
+    <vsk:OWNER_EMAILS>
+        <vsk:OWNER_EMAIL>
+            <vsk:EMAIL>asdf@adf.ry</vsk:EMAIL>
+        </vsk:OWNER_EMAIL>
+    </vsk:OWNER_EMAILS>
+    <vsk:OWNER_CITIZENSHIP>
+        <ws:Id>F11CEC8E-1BB2-4AF6-86C8-48CC76098626</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type/>
+    </vsk:OWNER_CITIZENSHIP>
+    <vsk:BENEFICIARY_SEX>
+        <ws:Id>4BE4BDB4-0285-40AC-BC74-13831355355B</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type>Link_Gender</ws:Type>
+    </vsk:BENEFICIARY_SEX>
+    <vsk:INSURER_SEX>
+        <ws:Id>4BE4BDB4-0285-40AC-BC74-13831355355B</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type>Link_Gender</ws:Type>
+    </vsk:INSURER_SEX>
+    <vsk:OWNER_SEX>
+        <ws:Id>4BE4BDB4-0285-40AC-BC74-13831355355B</ws:Id>
+        <ws:SysId>B2B</ws:SysId>
+        <ws:Type>Link_Gender</ws:Type>
+    </vsk:OWNER_SEX>
+    <vsk:AGENT_REPRESENTATIVE_NAME>kasko_zim</vsk:AGENT_REPRESENTATIVE_NAME>
+    <vsk:AGENT_REPRESENTATIVE_DIVISION_NAME>Интернет-магазин</vsk:AGENT_REPRESENTATIVE_DIVISION_NAME>
+
+    <vsk:PROMOCODENUMBER>5689788888</vsk:PROMOCODENUMBER>
+
+    <vsk:INSTALLMENTOPTIONS>
+        <vsk:LASTPAYMENTMETHOD>
+            <ws:Id>1688B76A-656C-49E4-BD55-FA582BD2B8CD</ws:Id>
+            <ws:SysId>B2B</ws:SysId>
+            <ws:Type>Link_Lastpaymentmethod</ws:Type>
+        </vsk:LASTPAYMENTMETHOD>
+    </vsk:INSTALLMENTOPTIONS>
+
+    <vsk:INSPREMIUMPAYER>Тестов Т.Т.</vsk:INSPREMIUMPAYER>
+
+    <vsk:PREVIOUSPOLICYFROMOTHERINSCOMPANY_EXPIRATIONDATE>2020-06-05T00:00:00</vsk:PREVIOUSPOLICYFROMOTHERINSCOMPANY_EXPIRATIONDATE>
+</vsk:UpdatePolicyRequestV2>

@@ -1,0 +1,6 @@
+<vsk:SetReviewUnderwritingParamsRequest xmlns:vsk="http://www.vsk.ru">
+    <vsk:POLICYID>${POLICYID}</vsk:POLICYID>
+    <vsk:REVIEWUNDERWRITINGTYPE>0</vsk:REVIEWUNDERWRITINGTYPE>
+    <!--Optional:-->
+
+</vsk:SetReviewUnderwritingParamsRequest>

@@ -1,0 +1,4 @@
+<vsk:ChangeDateRequest  xmlns:vsk="http://www.vsk.ru">
+    <vsk:POLICYID>${POLICYID}</vsk:POLICYID>
+    <vsk:EFFECTIVEDATE>${TIME}</vsk:EFFECTIVEDATE>
+</vsk:ChangeDateRequest>

@@ -1,0 +1,8 @@
+<vsk:ProlongatePolicyRequest xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:vsk="http://www.vsk.ru">
+    <!--Optional:-->
+    <vsk:POLICYID>C90FE937-C74D-4347-B393-FC405AB7B4BD</vsk:POLICYID>
+    <!--Optional:-->
+    <vsk:POLICYNUMBER>20WVWF5O01223</vsk:POLICYNUMBER>
+    <!--Optional:-->
+    <vsk:PROLONGATEALL>0</vsk:PROLONGATEALL>
+</vsk:ProlongatePolicyRequest>

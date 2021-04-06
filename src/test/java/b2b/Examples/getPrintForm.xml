@@ -1,0 +1,4 @@
+        <vsk:PrintDocumentsRequest xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:vsk="http://www.vsk.ru">
+            <vsk:POLICYID>${POLICYID}</vsk:POLICYID>
+            <vsk:NAMEPF>1e4c6cc2-001e-4083-a1e3-244ebfc786b5</vsk:NAMEPF>
+        </vsk:PrintDocumentsRequest>

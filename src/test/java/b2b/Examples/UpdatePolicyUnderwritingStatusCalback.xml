@@ -1,0 +1,11 @@
+
+        <vsk:UpdatePolicyUnderwritingStatusRequest xmlns:vsk="http://www.vsk.ru">
+            <vsk:PolicyId>${POLICYID}</vsk:PolicyId>
+            <vsk:PolicyNumber>${POLICYNUMBER}</vsk:PolicyNumber>
+            <vsk:PackageTaskStatus>-1</vsk:PackageTaskStatus>
+            <vsk:TaskId>4DBA9092-C784-4037-A171-5AA211AF64D4</vsk:TaskId>
+            <vsk:TaskStatus>6</vsk:TaskStatus>
+            <vsk:TaskStatusChanged>${TIME}</vsk:TaskStatusChanged>
+            <!--Optional:-->
+            <vsk:TaskComment>Test</vsk:TaskComment>
+        </vsk:UpdatePolicyUnderwritingStatusRequest>

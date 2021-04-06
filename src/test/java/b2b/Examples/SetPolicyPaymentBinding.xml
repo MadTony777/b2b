@@ -1,0 +1,4 @@
+        <vsk:SetPolicyPaymentBindingRequest xmlns:vsk="http://www.vsk.ru">
+            <vsk:POLICYID>DA8AA1AC-BD83-47E8-AA96-2718283A3D22</vsk:POLICYID>
+            <vsk:PAYMENTBINDINGID>E5F2F65A-FA95-4740-8968-9B63DDAAA76C</vsk:PAYMENTBINDINGID>
+        </vsk:SetPolicyPaymentBindingRequest>

@@ -1,0 +1,15 @@
+<vsk:GetFranchiseRequest xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:vsk="http://www.vsk.ru">
+    <vsk:PRODUCT>1CBE18E9-E086-4A2A-B56A-E55EF813077E</vsk:PRODUCT>
+    <vsk:PROGRAMTYPE xmlns:a="http://ws.rls10">
+        <a:Id>F7BBE3F4-5B0E-43D0-8132-111944C7F3C0</a:Id>
+        <a:SysId>B2B</a:SysId>
+        <a:Type>Link_Programm</a:Type>
+    </vsk:PROGRAMTYPE>
+    <vsk:CARMODEL xmlns:a="http://ws.rls10">
+        <a:Id>1893DB55-BD75-40B9-957F-3DF6C4A96395</a:Id>
+        <a:SysId>B2B</a:SysId>
+        <a:Type>Link_VEHICLE_MOD</a:Type>
+    </vsk:CARMODEL>
+    <vsk:CONSTRUCTED>2017</vsk:CONSTRUCTED>
+    <vsk:PROLONGATION>false</vsk:PROLONGATION>
+</vsk:GetFranchiseRequest>

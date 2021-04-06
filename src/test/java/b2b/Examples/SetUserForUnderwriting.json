@@ -1,0 +1,11 @@
+{
+  "User": {
+    "Login": "autodpm",
+    "Password": "autodpm"
+  },
+  "ProductName": "КАСКО ФЛ (ВСК)",
+  "PolicyNumber": "${POLICYNUMBER}",
+  "UserName": "${USER}",
+  "TaskId": null,
+  "FilesWithMultiUpload": []
+}
